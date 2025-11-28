@@ -1,0 +1,6 @@
+nome = input('digite o seu nome:')
+idade = int(input('digite sua idade:'))
+genero = input('digite seu genero:')
+endereco = input('digite seu endereço:')
+fone = int(input('digite o seu telefone:'))
+print(f'seu nome:{nome} \nsua idade:{idade} \nseu genero:{genero} \nseu endereço:{endereco} \nseu numero de telefone:{fone}')
